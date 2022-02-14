@@ -1,5 +1,4 @@
 from libraries.common import log_message, capture_page_screenshot, browser
-from libraries.mundialitis.mundialitis import Mundialitis
 from libraries.xhobbies.xhobbies import Xhobbies
 from config import OUTPUT_FOLDER
 
